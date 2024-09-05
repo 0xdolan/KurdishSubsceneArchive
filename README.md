@@ -10,7 +10,7 @@ The project aims to preserve Kurdish subtitle metadata for easy reference and fu
 
 If you are interested in downloading subtitles for other languages, you can find a full dump of Subscene subtitles at: [Subscene Full Dump on Reddit](https://www.reddit.com/r/DataHoarder/comments/1b5rxc2/subscenecom_full_dump/).
 
-**Note:** SubDL.com is a potential alternative for finding Kurdish subtitles.
+**Note:** [SubDL.com](https://subdl.com) is a potential alternative for finding Kurdish subtitles.
 
 ---
 
