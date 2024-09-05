@@ -7,6 +7,7 @@
 This repository contains metadata and subtitle files for Kurdish subtitles extracted from Subscene.com, which has since closed down. The CSV file includes detailed metadata, such as the title, IMDb ID, author, language, and links (now inactive Subscene links) to the subtitle files.
 
 The project aims to preserve Kurdish subtitle metadata for easy reference and future use by the Kurdish-speaking community, while the subtitle files are kept in their original, uncleaned, and non-normalized format.
+If you are interested in downloading subtitles for other languages, you can find a full dump of Subscene subtitles at: [Subscene Full Dump on Reddit](https://www.reddit.com/r/DataHoarder/comments/1b5rxc2/subscenecom_full_dump/).
 
 ---
 
